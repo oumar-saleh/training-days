@@ -56,7 +56,7 @@ var happyWithGuest = "thanks for coming over!";
 
 var a = 5;
 var b = "5";
-var c = 6
+var c = 7
 
 //console.log (a != b);
 
